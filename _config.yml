@@ -1,0 +1,28 @@
+name: kahoots-playground
+favicon: null
+layout_spectrum: 0.7622865180019289
+typography_spectrum: 0.16721509490162134
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9304848674219102
+  lightness: 0.6176519657019526
+  saturation: 0.4000980469863862
+  rhythmicContrast: 0.7105731815099716
+purpose: []
